@@ -13,13 +13,13 @@ Autobus 199
 
 ![Sala-Gimnastyczna-Zabki](Pics/szkola.jpg) 
 
-![Sala-Gimnastyczna-Zabki](20241023-c1.jpg) 
+![Sala-Gimnastyczna-Zabki](Pics/20241023-c1.jpg) 
 
-![Sala-Gimnastyczna-Zabki](20241023-c2.jpg) 
+![Sala-Gimnastyczna-Zabki](Pics/20241023-c2.jpg) 
 
-![Sala-Gimnastyczna-Zabki](20241023-c3.jpg) 
+![Sala-Gimnastyczna-Zabki](Pics/20241023-c3.jpg) 
 
-![Sala-Gimnastyczna-Zabki](20241023-c4.jpg) 
+![Sala-Gimnastyczna-Zabki](Pics/20241023-c4.jpg) 
 
 ## Revision History
 
