@@ -1,5 +1,5 @@
 # Sala-Gimnastyczna-Zabki
-Zajęcia ogólnorozwojowe na sali gimnastycznej w Ząbkach co środę wieczorem pod egidą JakoTimu :)
+Zajęcia ogólnorozwojowe na sali gimnastycznej w Ząbkach co środę wieczorem pod egidą "JakoTimu" :)
 
 ---
 
@@ -11,7 +11,7 @@ Lech Garus|JakoTim, Sala Gimastyczna, Biegi|
 # **Sala Gimnastyczna w Ząbkach**
 
 Info:
-- **zajęcia ogolnorozwojowe dla biegaczy i nie tylko dla biegaczy na sali gimnastycznej z Trenerem w Ząbkach pod egidą Grupy Biegowej JakoTim**
+- **zajęcia ogolnorozwojowe dla biegaczy i nie tylko dla biegaczy na sali gimnastycznej z Trenerem w Ząbkach pod egidą Grupy Biegowej "JakoTim"**
 
 Adres: 
 - **sala gimnastyczna - Szkoła Podstawowa nr 5, ul. Batorego 37, Ząbki** 
