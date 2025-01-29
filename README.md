@@ -21,13 +21,17 @@ Dzień tygodnia:
 - **środy / Wednesdays** 
 
 Czas: 
-**20:00-21:30 - 90 minut**
+- **20:00-21:30 - 90 minut**
 
-Kosz: 
-**50 zł / spotkanie. Pierwsze zajęcia są GRATIS!**
-**25 zł / spotkanie dla Osób poniżej 18 roku życia**
-Płatności: gotówka, blik na nr 501 28 17 82 lub przelew na konto: ???
-Możliwe metody płaności: za każde spotkanie osobno, z góry za mi
+Koszt: 
+- **Pierwsze zajęcia są GRATIS!** 
+- **50 zł / spotkanie**
+- **25 zł / spotkanie dla Osób poniżej 18 roku życia**
+- Płatności:
+  - gotówka,
+  - blik na nr 501 28 17 82
+  - przelew na konto: ???
+- Możliwe metody płaności: za każde spotkanie osobno, z góry za miesiąc z góry lub z dołu
 
 Przyjazd do szkoły wcześniej, szatnie otwarte od 19:45, konieczne buty do przebrania, zajęcia zaczynamy punkt 20:00. Możliwe wzięcie prysznica po zajęciach, tylko trzeba wziąć klucz. Można przekazać też moje dane dla innych zainteresowanych (Lech Garus, tel. 501281782, elf@poczta.onet.pl)
 
