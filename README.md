@@ -1,22 +1,23 @@
 # Sala-Gimnastyczna-Zabki
-Zajęcia ogólnorozwojowe na sali gimnastycznej w Ząbkach co środę wieczorem pod egid:)
+Zajęcia ogólnorozwojowe na sali gimnastycznej w Ząbkach co środę wieczorem pod egidą JakoTimu :)
 
 ---
-Ownership: | Tags:|
---- | --- |
-Lech Garus|Sala Gimastyczna, Biegi|
+
+Ownership:|Tags:|
+---|---|
+Lech Garus|JakoTim, Sala Gimastyczna, Biegi|
 ---
 
 # **Sala Gimnastyczna w Ząbkach**
 
 Info:
-- **zajęcia ogolnorozwojowe dla biegaczy i nie tylko dla biegaczy na sali gimnastycznej z Trenerem w Ząbkach**
+- **zajęcia ogolnorozwojowe dla biegaczy i nie tylko dla biegaczy na sali gimnastycznej z Trenerem w Ząbkach pod egidą Grupy Biegowej JakoTim**
 
 Adres: 
 - **sala gimnastyczna - Szkoła Podstawowa nr 5, ul. Batorego 37, Ząbki** 
-- https://sp5zabki.szkolnastrona.pl/
+(- https://sp5zabki.szkolnastrona.pl/)
   - GPS: 52.29455567849104, 21.103608799999996
-  - https://maps.app.goo.gl/E1G73q86epKLNMH66
+  (- https://maps.app.goo.gl/E1G73q86epKLNMH66)
 
 Dzień tygodnia: 
 - **środy / Wednesdays** 
@@ -41,11 +42,11 @@ Ważne informacje:
 - **możliwość wzięcia prysznica po zajęciach.**
 - **woda gratis na zajęciach**
 
-- **Przed pierwszym spotkaniem konieczne podpisanie formularza zgody na ćwiczenia i RODO.**
+- **!Przed pierwszym spotkaniem konieczne podpisanie formularza zgody na ćwiczenia i RODO!**
 
 Dojazd:
 - **Autobus 199**
-- **samochodami - parinng przed Szkołą - zwykle kilka osón jedzie z Bródna - możliwość wspólnego dojazdu z Bródna i Targówka
+- **samochodami - parinng przed Szkołą - zwykle kilka osón jedzie z Bródna - możliwość wspólnego dojazdu z Bródna i Targówka**
 
 Osoby odpowiedzialne:
 - **Lech Garus (tel. 501 281 782, elf@poczta.onet.pl)**
