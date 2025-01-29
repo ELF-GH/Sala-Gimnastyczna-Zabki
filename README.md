@@ -1,5 +1,5 @@
 # Sala-Gimnastyczna-Zabki
-Sala Gimnastyczna w Ząbkach
+Zajęcia ogólnorozwojowe na sali gimnastycznej w Ząbkach co środę wieczorem :)
 
 ---
 Ownership: | Tags:|
@@ -9,9 +9,12 @@ Lech Garus|Sala Gimastyczna, Biegi|
 
 # **Sala Gimnastyczna w Ząbkach**
 
-Info: zajęcia ogolnorozwojowe dla biegaczy i nie tylko na sali gimnastycznej z Trenerem w Ząbkach
+Info: 
+
+**zajęcia ogolnorozwojowe dla biegaczy i nie tylko dla biegaczy na sali gimnastycznej z Trenerem w Ząbkach**
 
 Adres: 
+
 **sala gimnastyczna - Szkoła Podstawowa nr 5, ul. Batorego 37, Ząbki** 
 GPS: 
 
