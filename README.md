@@ -3,9 +3,9 @@
 
 ---
 
-Ownership | Tags | xx | Who
------- | ---- | ---- | ----
-Lech Garus | JakoTim, Sala Gimnastyczna, Biegi | xx | LG
+Ownership | Tags |
+------ | ---- |
+Lech Garus | JakoTim, Sala Gimnastyczna, Biegi |
 
 ---
 # **Sala Gimnastyczna w Ząbkach**
