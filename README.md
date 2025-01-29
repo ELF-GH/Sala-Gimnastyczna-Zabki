@@ -7,15 +7,21 @@ Ownership: | Tags: |
 Lech Garus | JakoTim, Sala Gimastyczna, Biegi |
 ---
 
+
+Revision | Date | Description of change | Who
+------ | ---- | ---- | ----
+0.1 | 29.01.2025 | Initial Creation | LG
+
+
 # **Sala Gimnastyczna w Ząbkach**
 
 Info:
 - **zajęcia ogolnorozwojowe dla biegaczy i nie tylko dla biegaczy na sali gimnastycznej z Trenerem w Ząbkach pod egidą Grupy Biegowej "JakoTim"**
 
 Adres: 
-- **sala gimnastyczna - Szkoła Podstawowa nr 5, ul. Batorego 37, Ząbki** https://sp5zabki.szkolnastrona.pl/
+- **sala gimnastyczna - Szkoła Podstawowa nr 5, ul. Batorego 37, Ząbki**
+  - https://sp5zabki.szkolnastrona.pl/
   - GPS: 52.29455567849104, 21.103608799999996
-  - (https://maps.app.goo.gl/E1G73q86epKLNMH66)
   - https://maps.app.goo.gl/EjEwgAxJYgrnS8Bw6
 
 Dzień tygodnia: 
@@ -45,7 +51,7 @@ Ważne informacje:
 
 Dojazd:
 - **Autobus 199**
-- **samochodami - parinng przed Szkołą - zwykle kilka osón jedzie z Bródna - możliwość wspólnego dojazdu z Bródna i Targówka**
+- **samochodami - parinng przed Szkołą - zwykle kilka osób jedzie z Bródna/Targówka - możliwość wspólnego dojazdu z Bródna i Targówka**
 
 Osoby odpowiedzialne:
 - **Lech Garus (tel. 501 281 782, elf@poczta.onet.pl)**
