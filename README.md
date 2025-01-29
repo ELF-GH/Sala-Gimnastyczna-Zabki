@@ -15,10 +15,10 @@ Info:
 
 Adres: 
 - **sala gimnastyczna - Szkoła Podstawowa nr 5, ul. Batorego 37, Ząbki** 
-- (https://sp5zabki.szkolnastrona.pl/)
+- [](https://sp5zabki.szkolnastrona.pl/)
   - GPS: 52.29455567849104, 21.103608799999996
-  - https://maps.app.goo.gl/E1G73q86epKLNMH66
-  - <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2440.18951673548!2d21.103608799999996!3d52.294414599999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ece5bdce83abb%3A0xc1f5723660ef2ceb!2sStefana%20Batorego%2037%2C%2005-091%20Z%C4%85bki!5e0!3m2!1spl!2spl!4v1738179968000!5m2!1spl!2spl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  - [](https://maps.app.goo.gl/E1G73q86epKLNMH66)
+  - [](https://maps.app.goo.gl/EjEwgAxJYgrnS8Bw6)
 
 Dzień tygodnia: 
 - **środy / Wednesdays** 
