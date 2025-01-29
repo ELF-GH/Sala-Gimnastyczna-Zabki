@@ -34,13 +34,13 @@ Koszt:
 - Możliwe metody płaności: za każde spotkanie osobno, z góry za miesiąc z góry lub z dołu.
 
 Ważne informacje:
-**- Przyjazd do szkoły wcześniej, szatnie otwarte od 19:45,**
-**- konieczne buty do przebrania,**
-**- zajęcia zaczynamy punkt 20:00,**
-**- możliwość wzięcia prysznica po zajęciach.**
-**-Woda gratis na zajęciach**
+- **Przyjazd do szkoły wcześniej, szatnie otwarte od 19:45,**
+- **konieczne buty do przebrania,**
+- **zajęcia zaczynamy punkt 20:00,**
+- **możliwość wzięcia prysznica po zajęciach.**
+- **Woda gratis na zajęciach**
 
-**- Przed pierwszym spotkaniem konieczne podpisanie formularza zgody na ćwiczenia i RODO.**
+- **Przed pierwszym spotkaniem konieczne podpisanie formularza zgody na ćwiczenia i RODO.**
 link
 
 
