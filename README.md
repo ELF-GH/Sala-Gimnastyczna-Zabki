@@ -13,11 +13,10 @@ Info:
 - **zajęcia ogolnorozwojowe dla biegaczy i nie tylko dla biegaczy na sali gimnastycznej z Trenerem w Ząbkach pod egidą Grupy Biegowej "JakoTim"**
 
 Adres: 
-- **sala gimnastyczna - Szkoła Podstawowa nr 5, ul. Batorego 37, Ząbki** 
-- (https://sp5zabki.szkolnastrona.pl/)
+- **sala gimnastyczna - Szkoła Podstawowa nr 5, ul. Batorego 37, Ząbki** https://sp5zabki.szkolnastrona.pl/
   - GPS: 52.29455567849104, 21.103608799999996
   - (https://maps.app.goo.gl/E1G73q86epKLNMH66)
-  - (https://maps.app.goo.gl/EjEwgAxJYgrnS8Bw6)
+  - https://maps.app.goo.gl/EjEwgAxJYgrnS8Bw6
 
 Dzień tygodnia: 
 - **środy / Wednesdays** 
