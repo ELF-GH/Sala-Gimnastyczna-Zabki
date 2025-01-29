@@ -33,7 +33,7 @@ Koszt:
   - gotówka,
   - blik na nr 501 28 17 82 (Lech Garus)
   - przelew na konto (dedykowane Grupie JakoTim): PKO BP: **10 1020 1055 0000 9302 0654 7139** 
-- Możliwe metody płaności: za każde spotkanie osobno, z góry za miesiąc z góry lub z dołu.
+- Możliwe metody płaności: za każde spotkanie osobno, za miesiąc z góry lub z dołu.
 
 Ważne informacje:
 - **Przyjazd do szkoły wcześniej, szatnie otwarte od 19:45,**
