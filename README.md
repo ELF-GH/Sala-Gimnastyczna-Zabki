@@ -30,13 +30,15 @@ Koszt:
 - Płatności:
   - gotówka,
   - blik na nr 501 28 17 82
-  - przelew na konto: ???
-- Możliwe metody płaności: za każde spotkanie osobno, z góry za miesiąc z góry lub z dołu
+  - przelew na konto (dedykowane Grupie JakoTim): PKO BP 10 1020 1055 0000 9302 0654 7139 
+- Możliwe metody płaności: za każde spotkanie osobno, z góry za miesiąc z góry lub z dołu.
 
 Przyjazd do szkoły wcześniej, szatnie otwarte od 19:45, konieczne buty do przebrania, zajęcia zaczynamy punkt 20:00. Możliwe wzięcie prysznica po zajęciach, tylko trzeba wziąć klucz. Można przekazać też moje dane dla innych zainteresowanych (Lech Garus, tel. 501281782, elf@poczta.onet.pl)
 
 
 Przed pierwszym spotkaniem konieczne podpisanie formularza zgody na ćwiczenia i RODO.
+
+Woda gratis na zajęciach
 
 Autobus 199
 
