@@ -1,18 +1,13 @@
 # Sala-Gimnastyczna-Zabki
-Zajęcia ogólnorozwojowe na sali gimnastycznej w Ząbkach co środę wieczorem pod egidą "JakoTimu" :)
+**Zajęcia ogólnorozwojowe na sali gimnastycznej w Ząbkach co środę wieczorem pod egidą "JakoTimu" :)**
 
 ---
-Ownership: | Tags: |
---- | --- |
-Lech Garus | JakoTim, Sala Gimastyczna, Biegi |
----
-
 
 Ownership | Tags | xx | Who
 ------ | ---- | ---- | ----
 Lech Garus | JakoTim, Sala Gimnastyczna, Biegi | xx | LG
 
-
+---
 # **Sala Gimnastyczna w Ząbkach**
 
 Info:
