@@ -1,10 +1,10 @@
 # Sala-Gimnastyczna-Zabki
-Sala Gimnastyczna w Ząbkach
+Sala Gimnastyczna w Ząbkach**
+
 ---
-Ownership: Lech Garus
-tags:
-  - Sala Gimastyczna
-  - Biegi
+Ownership: | Tags:|
+--- | --- |
+Lech Garus|Sala Gimastyczna, Biegi|
 ---
 
 # **Sala Gimnastyczna w Ząbkach**
@@ -25,6 +25,6 @@ Autobus 199
 
 ## Revision History
 
-Revisuin | Date | Description of change | Who
+Revision | Date | Description of change | Who
 ------ | ---- | ---- | ----
 0.1 | 22.01.2025 | Initial Creation | LG
