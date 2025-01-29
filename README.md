@@ -1,5 +1,5 @@
 # Sala-Gimnastyczna-Zabki
-Zajęcia ogólnorozwojowe na sali gimnastycznej w Ząbkach co środę wieczorem :)
+Zajęcia ogólnorozwojowe na sali gimnastycznej w Ząbkach co środę wieczorem pod egid:)
 
 ---
 Ownership: | Tags:|
@@ -29,18 +29,27 @@ Koszt:
 - **25 zł / spotkanie dla Osób poniżej 18 roku życia**
 - Płatności:
   - gotówka,
-  - blik na nr 501 28 17 82
+  - blik na nr 501 28 17 82 (Lech Garus)
   - przelew na konto (dedykowane Grupie JakoTim): PKO BP 10 1020 1055 0000 9302 0654 7139 
 - Możliwe metody płaności: za każde spotkanie osobno, z góry za miesiąc z góry lub z dołu.
 
-Przyjazd do szkoły wcześniej, szatnie otwarte od 19:45, konieczne buty do przebrania, zajęcia zaczynamy punkt 20:00. Możliwe wzięcie prysznica po zajęciach, tylko trzeba wziąć klucz. Można przekazać też moje dane dla innych zainteresowanych (Lech Garus, tel. 501281782, elf@poczta.onet.pl)
+Ważne informacje:
+**- Przyjazd do szkoły wcześniej, szatnie otwarte od 19:45,**
+**- konieczne buty do przebrania,**
+**- zajęcia zaczynamy punkt 20:00,**
+**- możliwość wzięcia prysznica po zajęciach.**
+**-Woda gratis na zajęciach**
+
+**- Przed pierwszym spotkaniem konieczne podpisanie formularza zgody na ćwiczenia i RODO.**
+link
 
 
-Przed pierwszym spotkaniem konieczne podpisanie formularza zgody na ćwiczenia i RODO.
-
-Woda gratis na zajęciach
 
 Autobus 199
+
+Osoby odpowiedzialne:
+**Lech Garus (tel. 501 281 782, elf@poczta.onet.pl)
+Tomasz Mamcarczyk (w przypadku nieobecności Lecha)**
 
 ![Sala-Gimnastyczna-Zabki](Pics/szkola.jpg) 
 
@@ -56,4 +65,4 @@ Autobus 199
 
 Revision | Date | Description of change | Who
 ------ | ---- | ---- | ----
-0.1 | 22.01.2025 | Initial Creation | LG
+0.1 | 29.01.2025 | Initial Creation | LG
