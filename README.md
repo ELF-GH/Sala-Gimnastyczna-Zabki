@@ -14,8 +14,8 @@ Info:
 
 Adres: 
 - **sala gimnastyczna - Szkoła Podstawowa nr 5, ul. Batorego 37, Ząbki** 
-- (https://sp5zabki.szkolnastrona.pl/)
-- GPS: 52.29455567849104, 21.103608799999996 (https://maps.app.goo.gl/E1G73q86epKLNMH66)
+- [(https://sp5zabki.szkolnastrona.pl/)]
+- GPS: 52.29455567849104, 21.103608799999996 [(https://maps.app.goo.gl/E1G73q86epKLNMH66)]
 
 Dzień tygodnia: 
 - **środy / Wednesdays** 
@@ -30,7 +30,7 @@ Koszt:
 - Płatności:
   - gotówka,
   - blik na nr 501 28 17 82 (Lech Garus)
-  - przelew na konto (dedykowane Grupie JakoTim): PKO BP 10 1020 1055 0000 9302 0654 7139 
+  - przelew na konto (dedykowane Grupie JakoTim): PKO BP: **10 1020 1055 0000 9302 0654 7139** 
 - Możliwe metody płaności: za każde spotkanie osobno, z góry za miesiąc z góry lub z dołu.
 
 Ważne informacje:
