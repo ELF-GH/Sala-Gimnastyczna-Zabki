@@ -14,8 +14,9 @@ Info:
 
 Adres: 
 - **sala gimnastyczna - Szkoła Podstawowa nr 5, ul. Batorego 37, Ząbki** 
-- [(https://sp5zabki.szkolnastrona.pl/)]
-- GPS: 52.29455567849104, 21.103608799999996 [(https://maps.app.goo.gl/E1G73q86epKLNMH66)]
+- https://sp5zabki.szkolnastrona.pl/
+  - GPS: 52.29455567849104, 21.103608799999996
+  - https://maps.app.goo.gl/E1G73q86epKLNMH66
 
 Dzień tygodnia: 
 - **środy / Wednesdays** 
@@ -38,18 +39,17 @@ Ważne informacje:
 - **konieczne buty do przebrania,**
 - **zajęcia zaczynamy punkt 20:00,**
 - **możliwość wzięcia prysznica po zajęciach.**
-- **Woda gratis na zajęciach**
+- **woda gratis na zajęciach**
 
 - **Przed pierwszym spotkaniem konieczne podpisanie formularza zgody na ćwiczenia i RODO.**
-link
 
-
-
-Autobus 199
+Dojazd:
+- **Autobus 199**
+- **samochodami - parinng przed Szkołą - zwykle kilka osón jedzie z Bródna - możliwość wspólnego dojazdu z Bródna i Targówka
 
 Osoby odpowiedzialne:
-**Lech Garus (tel. 501 281 782, elf@poczta.onet.pl)
-Tomasz Mamcarczyk (w przypadku nieobecności Lecha)**
+- **Lech Garus (tel. 501 281 782, elf@poczta.onet.pl)**
+- **Tomasz Mamcarczyk (w przypadku nieobecności Lecha)**
 
 ![Sala-Gimnastyczna-Zabki](Pics/szkola.jpg) 
 
