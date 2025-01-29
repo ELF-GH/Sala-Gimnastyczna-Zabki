@@ -2,10 +2,9 @@
 Zajęcia ogólnorozwojowe na sali gimnastycznej w Ząbkach co środę wieczorem pod egidą "JakoTimu" :)
 
 ---
-
-Ownership:|Tags:|
----|---|
-Lech Garus|JakoTim, Sala Gimastyczna, Biegi|
+Ownership: | Tags: |
+--- | --- |
+Lech Garus | JakoTim, Sala Gimastyczna, Biegi |
 ---
 
 # **Sala Gimnastyczna w Ząbkach**
@@ -15,10 +14,10 @@ Info:
 
 Adres: 
 - **sala gimnastyczna - Szkoła Podstawowa nr 5, ul. Batorego 37, Ząbki** 
-- [](https://sp5zabki.szkolnastrona.pl/)
+- (https://sp5zabki.szkolnastrona.pl/)
   - GPS: 52.29455567849104, 21.103608799999996
-  - [](https://maps.app.goo.gl/E1G73q86epKLNMH66)
-  - [](https://maps.app.goo.gl/EjEwgAxJYgrnS8Bw6)
+  - (https://maps.app.goo.gl/E1G73q86epKLNMH66)
+  - (https://maps.app.goo.gl/EjEwgAxJYgrnS8Bw6)
 
 Dzień tygodnia: 
 - **środy / Wednesdays** 
