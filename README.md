@@ -8,9 +8,9 @@ Lech Garus | JakoTim, Sala Gimastyczna, Biegi |
 ---
 
 
-Revision | Date | Description of change | Who
+Ownership | Tags | xx | Who
 ------ | ---- | ---- | ----
-0.1 | 29.01.2025 | Initial Creation | LG
+Lech Garus | JakoTim, Sala Gimnastyczna, Biegi | xx | LG
 
 
 # **Sala Gimnastyczna w Ząbkach**
