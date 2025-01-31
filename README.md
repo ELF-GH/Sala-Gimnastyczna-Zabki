@@ -15,7 +15,7 @@ Info:
 
 Adres: 
 - **sala gimnastyczna - Szkoła Podstawowa nr 5, ul. Batorego 37, Ząbki**
-  - [Sz.P. no 5 w Ząbkach](https://sp5zabki.szkolnastrona.pl/)
+  - [Sz.P. nr 5 w Ząbkach](https://sp5zabki.szkolnastrona.pl/)
   - GPS: 52.29455567849104, 21.103608799999996
   - [Trasa - jak dojechać](https://maps.app.goo.gl/EjEwgAxJYgrnS8Bw6)
 
