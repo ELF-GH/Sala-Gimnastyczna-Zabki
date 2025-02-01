@@ -78,8 +78,23 @@ Osoby odpowiedzialne:
 
 ![Sala-Gimnastyczna-Zabki](Pics/20241204a.jpg)
 
-![Sala-Gimnastyczna-Zabki](Pics/20241024a.jpg)
+![Sala-Gimnastyczna-Zabki](Pics/20241030-a.jpg)
 
+![Sala-Gimnastyczna-Zabki](Pics/20241030-a.jpg)
+
+![Sala-Gimnastyczna-Zabki](Pics/20241120-a.jpg)
+
+![Sala-Gimnastyczna-Zabki](Pics/20241127-a.jpg)
+
+![Sala-Gimnastyczna-Zabki](Pics/20241218-a.jpg)
+
+![Sala-Gimnastyczna-Zabki](Pics/20250123-a.jpg)
+
+![Sala-Gimnastyczna-Zabki](Pics/20250123-b.jpg)
+
+![Sala-Gimnastyczna-Zabki](Pics/20250129-a.jpg)
+
+![Sala-Gimnastyczna-Zabki](Pics/20250129-Aga.jpg)
 
 
 ## Revision History
