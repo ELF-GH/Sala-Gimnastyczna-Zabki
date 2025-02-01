@@ -45,7 +45,7 @@ Ważne informacje:
 - **możliwość wzięcia prysznica po zajęciach.**
 - **woda gratis na zajęciach**
 
-- **!Przed pierwszym spotkaniem konieczne podpisanie formularza zgody na ćwiczenia i RODO!**
+- **!Przed pierwszym spotkaniem konieczne podpisanie formularza zgody na ćwiczenia i RODO!** ![Formularz](Docs/20241009-SGZ-Oswiadczenie-RODO-LG.PDF)
 
 Dojazd:
 - **Autobus 199**
