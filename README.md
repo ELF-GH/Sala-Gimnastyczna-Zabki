@@ -66,6 +66,22 @@ Osoby odpowiedzialne:
 
 ![Sala-Gimnastyczna-Zabki](Pics/20241023-c4.jpg) 
 
+**GRUPA / TEAM - "JakoTim"**  
+
+![Sala-Gimnastyczna-Zabki](Pics/20241009a.jpg)
+
+![Sala-Gimnastyczna-Zabki](Pics/20241024a.jpg)
+
+![Sala-Gimnastyczna-Zabki](Pics/20241114a.jpg)
+
+![Sala-Gimnastyczna-Zabki](Pics/20241114b.jpg)
+
+![Sala-Gimnastyczna-Zabki](Pics/20241204a.jpg)
+
+![Sala-Gimnastyczna-Zabki](Pics/20241024a.jpg)
+
+
+
 ## Revision History
 
 Revision | Date | Description of change | Who
