@@ -101,4 +101,6 @@ Osoby odpowiedzialne:
 
 Revision | Date | Description of change | Who
 ------ | ---- | ---- | ----
+0.2 | 01.02.2025 | Update | LG
 0.1 | 29.01.2025 | Initial Creation | LG
+
