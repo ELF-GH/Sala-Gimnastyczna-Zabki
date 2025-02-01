@@ -45,7 +45,7 @@ Ważne informacje:
 - **możliwość wzięcia prysznica po zajęciach.**
 - **woda gratis na zajęciach**
 
-- **!Przed pierwszym spotkaniem konieczne podpisanie formularza zgody na ćwiczenia i RODO!** ![Formularz](Docs/salagrodo.png)
+- **!Przed pierwszym spotkaniem konieczne podpisanie formularza zgody na ćwiczenia i RODO!** ![Formularz](Docs/SALAGRODO.png)
 
 Dojazd:
 - **Autobus 199**
