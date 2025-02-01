@@ -53,7 +53,7 @@ Dojazd:
 - **samochodami - parinng przed Szkołą - zwykle kilka osób jedzie z Bródna/Targówka - możliwość wspólnego dojazdu z Bródna i Targówka**
 
 Osoby odpowiedzialne:
-- **Lech Garus (tel. 501 281 782, elf@poczta.onet.pl)** ![Sala-Gimnastyczna-Zabki](Pics/20250201-Lech2.jpg)
+- **Lech Garus (tel. 501 28 17 82, elf@poczta.onet.pl)** ![Sala-Gimnastyczna-Zabki](Pics/20250201-Lech2.jpg)
 - **Tomasz (w przypadku nieobecności Lecha)** ![Sala-Gimnastyczna-Zabki](Pics/20250201-Tomek2.jpg)
 
 ![Sala-Gimnastyczna-Zabki](Pics/szkola2.jpg) 
