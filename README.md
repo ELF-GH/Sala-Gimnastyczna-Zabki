@@ -80,8 +80,6 @@ Osoby odpowiedzialne:
 
 ![Sala-Gimnastyczna-Zabki](Pics/20241030-a.jpg)
 
-![Sala-Gimnastyczna-Zabki](Pics/20241030-a.jpg)
-
 ![Sala-Gimnastyczna-Zabki](Pics/20241120-a.jpg)
 
 ![Sala-Gimnastyczna-Zabki](Pics/20241127-a.jpg)
