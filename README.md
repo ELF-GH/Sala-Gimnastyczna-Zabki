@@ -10,6 +10,8 @@ Ownership | Tags |
 ------ | ---- |
 Lech Garus | JakoTim, Sala Gimnastyczna, Biegi |
 
+![Sala-Gimnastyczna-Zabki](Pics/QR-SalaG.jpg)
+
 ---
 # **Sala Gimnastyczna w Ząbkach**
 
