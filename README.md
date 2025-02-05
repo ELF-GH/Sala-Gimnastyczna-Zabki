@@ -10,7 +10,7 @@ Ownership | Tags |
 ------ | ---- |
 Lech Garus | JakoTim, Sala Gimnastyczna, Biegi |
 
-# <code style="color : red">UWAGA! Dzisiaj (05.02.2024) zajęcia na sali gimnastycznej zostały ODWOŁANE!</code>
+# <code style="color : red">UWAGA! Dzisiaj (05.02.2025) zajęcia na sali gimnastycznej zostały ODWOŁANE!</code>
 
 # <code style="color : green">Zapraszamy za tydzień!</code>
 
