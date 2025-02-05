@@ -15,6 +15,7 @@ Lech Garus | JakoTim, Sala Gimnastyczna, Biegi |
 **Zapraszamy za tydzień!**
 
 
+<code style="color : red">text</code>
 
 **$${\color{red}UWAGA! Dzisiaj (05.02.2024) zajęcia na sali Gimnastycznej zostały ODWOŁANE!}$$**
 
