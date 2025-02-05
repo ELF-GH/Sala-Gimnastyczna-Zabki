@@ -14,6 +14,8 @@ Lech Garus | JakoTim, Sala Gimnastyczna, Biegi |
 
 # <code style="color : green">Zapraszamy za tydzień!</code>
 
+${{\color{Goldenrod}\Huge{\textsf{ Hi\ there\ \}}}}\$
+
 ![Sala-Gimnastyczna-Zabki](Pics/QR-SalaG.jpg)
 
 ---
