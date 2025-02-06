@@ -10,9 +10,9 @@ Ownership | Tags |
 ------ | ---- |
 Lech Garus | JakoTim, Sala Gimnastyczna, Biegi |
 
-# <code style="color : red">UWAGA! Dzisiaj (05.02.2025) zajęcia na sali gimnastycznej zostały ODWOŁANE!</code>
+# <code style="color : red">UWAGA! Najbliższe zajęcia na sali gimnastycznej odbędzie się w środę 12.02.2025 o godzinie 20:00</code>
 
-# <code style="color : green">Zapraszamy za tydzień!</code>
+# <code style="color : green">Zapraszamy!</code>
 
 ![Sala-Gimnastyczna-Zabki](Pics/QR-SalaG.jpg)
 
@@ -105,6 +105,7 @@ Osoby odpowiedzialne:
 
 Revision | Date | Description of change | Who
 ------ | ---- | ---- | ----
+0.4|06.02.2025|Update|LG
 0.3|05.02.2025|Update|LG
 0.2 | 01.02.2025 | Update | LG
 0.1 | 29.01.2025 | Initial Creation | LG
