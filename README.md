@@ -52,7 +52,7 @@ Ważne informacje:
 - **możliwość wzięcia prysznica po zajęciach.**
 - **woda gratis na zajęciach**
 
--- **ostatnio były też banany :)**
+- # <code style="color : yellow">**ostatnio były też banany :)**</code>
 
 - **!Przed pierwszym spotkaniem konieczne podpisanie formularza zgody na ćwiczenia i RODO!** ![Formularz](Docs/SALAGRODO.png)
 
