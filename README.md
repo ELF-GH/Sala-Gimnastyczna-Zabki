@@ -24,7 +24,7 @@ Lech Garus | JakoTim, Sala Gimnastyczna, Biegi |
 # **Sala Gimnastyczna w Ząbkach**
 # **<code style="color : red">dla BIEGACZY !</code>**
 
-# **Exercises in the gym**
+# **Exercises in the gym in Ząbki**
 # **<code style="color : red">for RUNNERS !</code>**
 
 Info:
