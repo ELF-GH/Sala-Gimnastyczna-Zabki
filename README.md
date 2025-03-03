@@ -18,6 +18,7 @@ Lech Garus | JakoTim, Sala Gimnastyczna, Biegi |
 
 ---
 # **Sala Gimnastyczna w Ząbkach**
+# **<code style="color : orange">dla BIEGACZY !</code>**
 
 Info:
 - **zajęcia ogolnorozwojowe dla biegaczy i nie tylko dla biegaczy na sali gimnastycznej z Trenerem w Ząbkach pod egidą Grupy Biegowej "JakoTim"**
