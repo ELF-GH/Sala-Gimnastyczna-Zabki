@@ -25,7 +25,7 @@ Lech Garus | JakoTim, Sala Gimnastyczna, Biegi |
 # **<code style="color : red">dla BIEGACZY !</code>**
 
 # **Exercises in the gym**
-# **<code style="color : red">For RUNNERS !</code>**
+# **<code style="color : red">for RUNNERS !</code>**
 
 Info:
 - **zajęcia ogolnorozwojowe dla BIEGACZY i nie tylko dla biegaczy na sali gimnastycznej z Trenerem w Ząbkach pod egidą Grupy Biegowej "JakoTim"**
