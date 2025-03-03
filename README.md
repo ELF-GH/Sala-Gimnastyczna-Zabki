@@ -1,4 +1,4 @@
-# Sala-Gimnastyczna-Zabki
+# Sala-Gimnastyczna-Ząbki
 **Zajęcia ogólnorozwojowe na sali gimnastycznej w Ząbkach co środę wieczorem pod egidą "JakoTimu" :)**  
 
 ![Sala-Gimnastyczna-Zabki](Pics/20241009_235835.jpg)  
@@ -15,12 +15,7 @@ Lech Garus | JakoTim, Sala Gimnastyczna, Biegi |
 # <code style="color : green">Zapraszamy!</code>
 
 ![Sala-Gimnastyczna-Zabki](Pics/QR-SalaG.jpg)
-
 ---
-# **Sala Gimnastyczna w Ząbkach / Exercises in the gym**
-# **<code style="color : red">dla BIEGACZY ! / for RUNNERS !</code>**
-
-
 # **Sala Gimnastyczna w Ząbkach**
 # **<code style="color : red">dla BIEGACZY !</code>**
 
@@ -68,7 +63,7 @@ Dojazd:
 - **Autobus 199**
 - **samochodami - parinng przed Szkołą - zwykle kilka osób jedzie z Bródna/Targówka - możliwość wspólnego dojazdu z Bródna i Targówka**
 
-Osoby odpowiedzialne:
+Osoby odpowiedzialne / responsible people:
 - **Lech Garus (tel. 501 28 17 82, elf@poczta.onet.pl)** ![Sala-Gimnastyczna-Zabki](Pics/20250201-Lech2.jpg)
 - **Tomasz (w przypadku nieobecności Lecha)** ![Sala-Gimnastyczna-Zabki](Pics/20250201-Tomek2.jpg)
 
@@ -115,6 +110,7 @@ Osoby odpowiedzialne:
 
 Revision | Date | Description of change | Who
 ------ | ---- | ---- | ----
+0.5|03.03.2025|Update|LG
 0.4|06.02.2025|Update|LG
 0.3|05.02.2025|Update|LG
 0.2 | 01.02.2025 | Update | LG
