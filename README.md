@@ -65,6 +65,8 @@ Dojazd:
 - **Autobus 199**
 - **samochodami - parinng przed Szkołą - zwykle kilka osób jedzie z Bródna/Targówka - możliwość wspólnego dojazdu z Bródna i Targówka**
 
+# <code style="color : red">UWAGA! Od niedawna parking przy szkole jest PŁATNY CAŁODOBOWO" (pon-pt) / ATTENTION carpark near the school is not for free. PAYMENT must be done for parking any time (24h Mon-Fri)!!! </code>
+
 Osoby odpowiedzialne / responsible people:
 - **Lech Garus (tel. 501 28 17 82, elf@poczta.onet.pl)** ![Sala-Gimnastyczna-Zabki](Pics/20250201-Lech2.jpg)
 - **Tomasz (w przypadku nieobecności Lecha)** ![Sala-Gimnastyczna-Zabki](Pics/20250201-Tomek2.jpg)
