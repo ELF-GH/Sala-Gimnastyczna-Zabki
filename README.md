@@ -114,6 +114,7 @@ Osoby odpowiedzialne / responsible people:
 
 Revision | Date | Description of change | Who
 ------ | ---- | ---- | ----
+0.5|06.03.2025|Update|LG
 0.5|03.03.2025|Update|LG
 0.4|06.02.2025|Update|LG
 0.3|05.02.2025|Update|LG
