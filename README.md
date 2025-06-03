@@ -10,7 +10,7 @@ Ownership | Tags |
 ------ | ---- |
 Lech Garus | JakoTim, Sala Gimnastyczna, Biegi |
 
-# <code style="color : red">UWAGA! Najbliższe zajęcia na sali gimnastycznej odbędą się w środę 28.05.2025 o godzinie 20:00 / every Wednesday 8:00 PM - 9:30 PM </code>
+# <code style="color : red">UWAGA! Najbliższe zajęcia na sali gimnastycznej odbędą się w środę 04.06.2025 o godzinie 20:00 / every Wednesday 8:00 PM - 9:30 PM </code>
 
 # <code style="color : blue">Plan na najbliższe zajęcia: trening ogólnorozwojowy </code>
 
