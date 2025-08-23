@@ -50,7 +50,7 @@ Koszt:
   - gotówka,
   - blik na nr 501 28 17 82 (Lech Garus)
   - przelew na konto (dedykowane Grupie JakoTim): PKO BP: **10 1020 1055 0000 9302 0654 7139** 
-- Możliwe metody płaności: za każde spotkanie osobno, za miesiąc z góry lub z dołu.
+- Możliwe metody płaności: za miesiąc z góry lub z dołu (ewentualnie za każde spotkanie osobno).
 
 Ważne informacje:
 - **Przyjazd do szkoły wcześniej, szatnie otwarte od 19:45,**
@@ -67,7 +67,7 @@ Dojazd:
 - **Autobus 199**
 - **samochodami - parinng przed Szkołą - zwykle kilka osób jedzie z Bródna/Targówka - możliwość wspólnego dojazdu z Bródna i Targówka**
 
-# <code style="color : red">UWAGA! Od niedawna parking przy szkole jest PŁATNY CAŁODOBOWO" (pon-pt) / ATTENTION carpark near the school is not for free. PAYMENT must be done for parking any time (24h Mon-Fri)!!! </code>
+# <code style="color : red">UWAGA! Parking przy szkole jest PŁATNY CAŁODOBOWO" (pon-pt) / ATTENTION carpark near the school is not for free. PAYMENT must be done for parking any time (24h Mon-Fri)!!! </code>
 
 Osoby odpowiedzialne / responsible people:
 - **Lech Garus (tel. 501 28 17 82, elf@poczta.onet.pl)** ![Sala-Gimnastyczna-Zabki](Pics/20250201-Lech2.jpg)
