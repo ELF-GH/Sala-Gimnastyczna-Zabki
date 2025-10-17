@@ -10,7 +10,7 @@ Ownership | Tags |
 ------ | ---- |
 Lech Garus | JakoTim, Sala Gimnastyczna, Biegi |
 
-# <code style="color : red">Najbliższe zajęcia na sali gimnastycznej odbędą się w środę 17.09.2025 o godzinie 20:00 / every Wednesday 8:00 PM - 9:30 PM </code>
+# <code style="color : red">Najbliższe zajęcia na sali gimnastycznej odbędą się w środę 22.10.2025 o godzinie 20:00 / every Wednesday 8:00 PM - 9:30 PM </code>
 
 # <code style="color : blue">Plan na najbliższe zajęcia: trening ogólnorozwojowy </code>
 
@@ -19,7 +19,7 @@ Lech Garus | JakoTim, Sala Gimnastyczna, Biegi |
 ![Sala-Gimnastyczna-Zabki](Pics/QR-SalaG.jpg)
 ---
 # **Sala Gimnastyczna w Ząbkach**
-# **<code style="color : red">dla BIEGACZY !</code>**
+# **<code style="color : red">dla WSZYSTKICH a szczególnie dla BIEGACZY !</code>**
 
 # **Exercises in the gym in Ząbki**
 # **<code style="color : red">for RUNNERS !</code>**
@@ -29,7 +29,7 @@ Info:
 - Osoby zainteresowane proszę o kontakt z **Lechem** lub **Tomaszem** (dane poniżej).
 
 Adres: 
-- **sala gimnastyczna - Szkoła Podstawowa nr 5, ul. Batorego 37, Ząbki**
+- **sala gimnastyczna - Zespół Szkół nr 1, ul. Batorego 37, Ząbki**
   - [Sz.P. nr 5 w Ząbkach](https://sp5zabki.szkolnastrona.pl/)
   - GPS: 52.29455567849104, 21.103608799999996
   - [Trasa - jak dojechać](https://maps.app.goo.gl/EjEwgAxJYgrnS8Bw6)
