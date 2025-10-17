@@ -22,7 +22,7 @@ Lech Garus | JakoTim, Sala Gimnastyczna, Biegi |
 # **<code style="color : red">dla WSZYSTKICH a szczególnie dla BIEGACZY !</code>**
 
 # **Exercises in the gym in Ząbki**
-# **<code style="color : red">for RUNNERS !</code>**
+# **<code style="color : red">for all and  RUNNERS !</code>**
 
 Info:
 - **zajęcia ogolnorozwojowe dla BIEGACZY i nie tylko dla biegaczy na sali gimnastycznej z Trenerem w Ząbkach pod egidą Grupy Biegowej "JakoTim"**
@@ -30,7 +30,7 @@ Info:
 
 Adres: 
 - **sala gimnastyczna - Zespół Szkół nr 1, ul. Batorego 37, Ząbki**
-  - [Sz.P. nr 5 w Ząbkach](https://sp5zabki.szkolnastrona.pl/)
+  - [Zesp. Szk. nr 1 w Ząbkach](https://sp5zabki.szkolnastrona.pl/)
   - GPS: 52.29455567849104, 21.103608799999996
   - [Trasa - jak dojechać](https://maps.app.goo.gl/EjEwgAxJYgrnS8Bw6)
 
