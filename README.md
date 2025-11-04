@@ -1,4 +1,4 @@
-# Sala-Gimnastyczna-Ząbki
+.# Sala-Gimnastyczna-Ząbki
 **Zajęcia ogólnorozwojowe na sali gimnastycznej w Ząbkach co środę wieczorem pod egidą "JakoTimu" :)**  
 
 ![Sala-Gimnastyczna-Zabki](Pics/20241009_235835.jpg)  
@@ -10,7 +10,7 @@ Ownership | Tags |
 ------ | ---- |
 Lech Garus | JakoTim, Sala Gimnastyczna, Biegi |
 
-# <code style="color : red">Najbliższe zajęcia na sali gimnastycznej odbędą się w środę 22.10.2025 o godzinie 20:00 / every Wednesday 8:00 PM - 9:30 PM </code>
+# <code style="color : red">Najbliższe zajęcia na sali gimnastycznej odbędą się w środę 05.11.2025 o godzinie 20:00 / every Wednesday 8:00 PM - 9:30 PM </code>
 
 # <code style="color : blue">Plan na najbliższe zajęcia: trening ogólnorozwojowy </code>
 
