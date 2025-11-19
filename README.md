@@ -1,4 +1,4 @@
-.# Sala-Gimnastyczna-Ząbki
+Sala-Gimnastyczna-Ząbki
 **Zajęcia ogólnorozwojowe na sali gimnastycznej w Ząbkach co środę wieczorem pod egidą "JakoTimu" :)**  
 
 ![Sala-Gimnastyczna-Zabki](Pics/20241009_235835.jpg)  
